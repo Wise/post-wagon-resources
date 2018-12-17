@@ -7,6 +7,7 @@
 *"what I would have liked to know when I started out"*  
   
 ### General
+[Ruby On Rails Guide](https://guides.rubyonrails.org/)
 [Ruby Style Guide: A community-driven coding style guide](https://github.com/rubocop-hq/ruby-style-guide)  
 [Evil Front Part 1: Modern Front-end in Rails](https://evilmartians.com/chronicles/evil-front-part-1)  
 [Developing a wizard or multi-steps forms in Rails](https://medium.com/@nicolasblanco/developing-a-wizard-or-multi-steps-forms-in-rails-d2f3b7c692ce)   
@@ -23,22 +24,36 @@
   
 
 ### Design patterns
-[*what is a design pattern??*](https://en.wikipedia.org/wiki/Software_design_pattern)  
+[*what's a design pattern??*](https://en.wikipedia.org/wiki/Software_design_pattern)  
   
 [The Problem with Rails Callbacks](http://samuelmullen.com/2013/05/the-problem-with-rails-callbacks/)  
 [State machines in Rails 5](https://medium.com/geogo-in/state-machines-in-rails-5-45259a4f42da)  
 [The Decorator Pattern](https://www.thegreatcodeadventure.com/rails-refactoring-part-iii-the-decorator-pattern/)
 
+## Project methodologies
+[La gestion de produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA&)
+
+## Employee
+https://flexjob.fr/ - Plateforme proposant une majorité d'offres en télétravail complet ou partiel
 
 ## Freelancer
+
+### Technical tools
+https://www.browserstack.com/ - Test rendu front multi-browser/multi version (ping me si vous voulez partager un compte)  
+https://www.heroku.com
+
+### Administrative tools
 https://www.freebe.me/ - Devis/facturation  
 https://www.facturation.pro/ - Devis/facturation  
 https://www.legalstart.fr/ - Juridique/contrats  
 https://www.toggl.com/ - Time tracking  
-https://www.wemind.io/ - Mutuelle/complémentaire/assistance juridique/"Commité d'entreprise"  
+https://www.wemind.io/ - Mutuelle/complémentaire/assistance juridique/"Comité d'entreprise"  
 https://www.novaa-expertise.com/ - Expertise comptable  
+
 
 ## Where to find missions?
 https://www.malt.fr/   
+https://www.talent.io/ref/pPywrmxB  
+https://comet.co/
 
 
