@@ -35,6 +35,8 @@
 
 ## Employee
 https://flexjob.fr/ - Plateforme proposant une majorité d'offres en télétravail complet ou partiel
+https://www.talent.io/ 
+https://www.reddit.com/r/railsjobs/
 
 ## Freelancer
 
